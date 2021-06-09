@@ -1,6 +1,13 @@
 # almanac
 Project Created to Demonstrate the issue faced in Django==3.2.4
 
+
+Python: 3.8.7
+MySQL: 8.0.19
+Django: 3.2.4
+OS: Centos 7
+
+
 ```python
   Applying nucleus.0003_nucleusdata_new_txt...Traceback (most recent call last):
   File "/root/almanac/venv/lib/python3.8/site-packages/django/db/backends/utils.py", line 84, in _execute
